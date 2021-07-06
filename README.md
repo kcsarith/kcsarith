@@ -30,7 +30,7 @@ My name is Krisna Sarith and I am a full-stack software engineer and web develop
 ### Experience
 - 2+ years programming
 - Mentored 3 other developers
-- Actively Programs in 3+ languages and dialects
+- Actively programs in 3+ languages and dialects
 
 ### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcsarith)
