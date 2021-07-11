@@ -39,7 +39,7 @@ My name is Krisna Sarith and I am a full-stack software engineer and web develop
 ![Krisna Sarith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcsarith&show_icons=true&count_private=true&hide=stars&border_radius=15&theme=tokyonight)
 
 ### Featured Projects
-[![Foodie](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=flask-react-group-project)](https://github.com/kcsarith/flask-react-group-project)
+[![Foodie](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=foodie)](https://github.com/kcsarith/foodie)
 [![Destructable](https://github-readme-stats.vercel.app/api/pin/?username=icey-franken&repo=projectKIL)](https://github.com/icey-franken/projectKIL)
 [![Asauna](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=asauna)](https://github.com/kcsarith/asauna)
 
