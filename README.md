@@ -1,5 +1,7 @@
 <h1>Welcome to my GitHub profile!</h1>
 
+![Krisna Sarith: JavaScript, TypeScript, Python, Dart programmer](https://raw.githubusercontent.com/kcsarith/kcsarith/main/krisna-portfolio-header.png "Header")
+
 My name is Krisna Sarith and I am a full-stack software engineer and web developer from the west coast United States specializing in JavaScript, HTML, and CSS. I'm an App Academy graduate currently looking for full-stack software engineering and/or front-end development opportunities in the tech industry.
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
