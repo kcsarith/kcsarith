@@ -9,26 +9,29 @@ My name is Krisna Sarith and I am a full-stack software engineer and web develop
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
 ![lDart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![Firebase](https://img.shields.io/badge/Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=orange)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+### Cool BlitzJs App I made in 1 day
+https://blitzapp-83db.onrender.com/
 ### Experience
 - 2+ years programming
 - Mentored 3 other developers
@@ -41,6 +44,8 @@ My name is Krisna Sarith and I am a full-stack software engineer and web develop
 ![Krisna Sarith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcsarith&show_icons=true&count_private=true&hide=stars&border_radius=15&theme=tokyonight)
 
 ### Featured Projects
+
+[![Leet Hacker](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=leet-hacker)](https://github.com/kcsarith/leet-hacker)
 [![Foodie](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=foodie)](https://github.com/kcsarith/foodie)
 [![Destructable](https://github-readme-stats.vercel.app/api/pin/?username=icey-franken&repo=projectKIL)](https://github.com/icey-franken/projectKIL)
 [![Asauna](https://github-readme-stats.vercel.app/api/pin/?username=kcsarith&repo=asauna)](https://github.com/kcsarith/asauna)
