@@ -30,8 +30,7 @@ My name is Krisna Sarith and I am a full-stack software engineer and web develop
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-### Cool BlitzJs App I made in 1 day
-https://blitzapp-83db.onrender.com/
+
 ### Experience
 - 2+ years programming
 - Mentored 3 other developers
